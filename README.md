@@ -8,7 +8,7 @@ http://qiita.com/taijijiji/items/a8a8beb68038a993ac2e
 
 How to run
 ```
-% python get_peeringdb.py <target AS number >
+% python get_peeringdb.py <target AS number>
 ```
 
 Output
