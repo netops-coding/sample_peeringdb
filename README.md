@@ -4,13 +4,14 @@ It's sample code using PeetingDB2.0 API
 It was posted the following blog(In Japanese).
 http://qiita.com/taijijiji/items/a8a8beb68038a993ac2e
 
-# How to ues
+# How to use
 
+How to run
 ```
-% python get_peeringdb.py < target AS number >
+% python get_peeringdb.py <target AS number >
 ```
 
-sample
+Output
 
 ```
 % python get_peeringdb.py 2518
